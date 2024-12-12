@@ -228,9 +228,9 @@ par(mar=c(5,5,4,2)) # c(bottom, left, top, right
 
 #usaremos la base de datos de murcielagos, para importar usamos
 
-Datos <- read.csv("Base_murcielagos_prueba.csv", header = T, sep = ",")
+Datos <- read.csv("/home/katia/Documentos/Rladies_clases/Clase_graficos_Rbase/CAJA_Y_BIGOTES/Base_murcielagos_prueba.csv", header = T, sep = ",")
 
-
+getwd()
 #### ahora hagamos las cajas de bigotes con la svariables que quiero 
 
 ### Usando la variable longevidad 
@@ -268,7 +268,7 @@ boxplot(Datos$Longevidad..Años.~Datos$Subfamilia,
 ### Usando la variable indice de especializacion 
 
 
-boxplot(Datos$Índice.especialización~Datos$Subfamilia, 
+boxplot(Datos$Masa.corporal~Datos$Subfamilia, 
         na.rm=T, 
         col= c("blue","orange","red","grey","pink","darkgreen","brown","skyblue","yellow", "green","purple"),
         #personalizar caja
@@ -292,7 +292,7 @@ boxplot(Datos$Índice.especialización~Datos$Subfamilia,
         outbg = 6,   # Color de fondo (pch 21 a 25)
         
         #agregar titulo principal y a ejes
-        main= "Distribución de la especialización",
+        main= "Distribución de la masa corporal",
         xlab= "Subfamilia",
         ylab="Nivel de specialización",
         cex.lab=1.3, # tamaño de letra de ejes

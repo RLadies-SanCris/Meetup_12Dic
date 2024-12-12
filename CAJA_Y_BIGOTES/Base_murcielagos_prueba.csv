@@ -1,38 +1,46 @@
-Especie,Subfamilia,Tasa metabolica basal (ml O2·h–1),Longevidad (Años),Índice especialización
-Diphylla ecaudata,Desmodontinae,33.9,8,4
-Diaemus youngi,Desmodontinae,34.0,20,4
-Desmodus rotundus,Desmodontinae,26.8,19.5,4
-Artibeus jamaicensis,Stenodermatinae,56.5,10,1.33
-Artibeus lituratus,Stenodermatinae,86.4,10.9,1.33
-Ectophylla alba,Stenodermatinae,NA,NA,4
-Chiroderma salvini,Stenodermatinae,NA,NA,4
-Platyrrhinus lineatus nigellus,Stenodermatinae,32.19,11.6,2
-Sturnira tildae,Stenodermatinae,39.9,NA,4
-Sturnira ludovici,Stenodermatinae,NA,NA,4
-Rhinophylla pumilio,Rhinophyllinae,16.2,NA,2
-Carollia castanea,Carollinae,NA,NA,4
-Carollia perspicillata ,Carollinae,30.265,12.4,4
-Glyphonycteris daviesi ,Glyphonycterinae,NA,NA,2
-Choeroniscus minor,Glossophaginae,NA,NA,1.33
-Anoura caudifer,Glossophaginae,28.1,NA,1.33
-Anoura geoffroyi,Glossophaginae,NA,10,1.33
-Anoura cultrata,Glossophaginae,NA,NA,1.33
-Glossophaga morenoi,Glossophaginae,NA,NA,1.33
-Glossophaga soricina,Glossophaginae,NA,10,1.33
-Leptonycteris curasoae,Glossophaginae,36.69,10,1.33
-Leptonycteris yerbabuenae,Glossophaginae,44,10,1.33
-Leptonycteris nivalis,Glossophaginae,NA,NA,1.33
-Brachyphylla cavernarum,Glossophaginae,NA,NA,1
-Lophostoma silvicolum,Phyllostominae,NA,NA,2
-Lophostoma brasiliense,Phyllostominae,NA,NA,2
-Phyllostomus discolor,Phyllostominae,34.5,9,1.33
-Tonatia saurophila,Phyllostominae,NA,NA,2
-Chrotopterus auritus,Phyllostominae,101.86,NA,1
-Trachops cirrhosus,Phyllostominae,NA,NA,1.33
-Vampyrum spectrum,Phyllostominae,NA,11.6,1.33
-Lonchorhina aurita,Lonchorhininae,NA,NA,4
-Lonchophylla robusta,Lonchophyllinae,NA,NA,1.33
-Micronycteris megalotis,Micronycterinae,NA,NA,2
-Micronycteris hirsuta,Micronycterinae,NA,NA,2
-Macrotus waterhousii,Macrotinae,NA,10.4,2
-Macrotus californicus,Macrotinae,14.6,13.7,2
+Especie,Subfamilia,Tasa metabolica basal (ml O2·h–1),Longevidad (Años),Masa corporal
+Diphylla ecaudata,Desmodontinae,33.9,8,2552
+Diaemus youngi,Desmodontinae,34,20,35
+Desmodus rotundus,Desmodontinae,26.8,19.5,199
+Artibeus jamaicensis,Stenodermatinae,56.5,10,576
+Artibeus lituratus,Stenodermatinae,86.4,10.9,1699
+Ectophylla alba,Stenodermatinae,NA,NA,692
+Chiroderma salvini,Stenodermatinae,NA,NA,2091
+Platyrrhinus lineatus nigellus,Stenodermatinae,32.19,11.6,22
+Sturnira tildae,Stenodermatinae,39.9,NA,26
+Sturnira ludovici,Stenodermatinae,NA,NA,245
+Rhinophylla pumilio,Rhinophyllinae,16.2,NA,135
+Carollia castanea,Carollinae,NA,NA,502
+Carollia perspicillata ,Carollinae,30.265,12.4,22
+Glyphonycteris daviesi ,Glyphonycterinae,NA,NA,141
+Choeroniscus minor,Glossophaginae,NA,NA,3415
+Anoura caudifer,Glossophaginae,28.1,NA,2436
+Anoura geoffroyi,Glossophaginae,NA,10,414
+Anoura cultrata,Glossophaginae,NA,NA,185
+Glossophaga morenoi,Glossophaginae,NA,NA,1618
+Glossophaga soricina,Glossophaginae,NA,10,2065
+Leptonycteris curasoae,Glossophaginae,36.69,10,1669
+Leptonycteris yerbabuenae,Glossophaginae,44,10,1685
+Leptonycteris nivalis,Glossophaginae,NA,NA,863
+Brachyphylla cavernarum,Glossophaginae,NA,NA,717
+Lophostoma silvicolum,Phyllostominae,NA,NA,163
+Lophostoma brasiliense,Phyllostominae,NA,NA,10
+Phyllostomus discolor,Phyllostominae,34.5,9,118
+Tonatia saurophila,Phyllostominae,NA,NA,116
+Chrotopterus auritus,Phyllostominae,101.86,NA,347
+Trachops cirrhosus,Phyllostominae,NA,NA,2404
+Vampyrum spectrum,Phyllostominae,NA,11.6,2199
+Lonchorhina aurita,Lonchorhininae,NA,NA,2166
+Lonchophylla robusta,Lonchophyllinae,NA,NA,2508
+Micronycteris megalotis,Micronycterinae,NA,NA,2166
+Micronycteris hirsuta,Micronycterinae,NA,NA,21
+Macrotus waterhousii,Macrotinae,NA,10.4,2102
+Macrotus californicus,Macrotinae,14.6,13.7,191
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
